@@ -14,12 +14,12 @@ The following methods and algorithms were used:
 - EasyEnsembleClassifier (ensemble classifier)
 
 For each method:
-1. The data is resampled using the algorithm
-2. A logistic regression model is then trained with the resampled data
-3. Predictions are determined
-4. Accuracy score is calculated
-5. A confusion matrix is generated
-6. A classification report is generated
+1. The data was resampled using the algorithm
+2. A logistic regression model was then trained with the resampled data
+3. Predictions were determined
+4. Accuracy score was calculated
+5. A confusion matrix was generated
+6. A classification report was generated
 
 ## Analysis Results
 
@@ -91,8 +91,9 @@ The results of using this algorithm are as follows (for identifying high risk):
 
 Classification summary report - EasyEnsembleClassifier:
 
-![classification_report_eec](Resources/classification_report_eec.png)
+![ClassificationReportEec](Resources/ClassificationReportEec.png)
 
 
 ## Summary
 
+Looking at the metrics for each of the models, the balanced accuracy score using the EasyEnsembleClassifier was the highest at 93%.  However, that score may not be the best indicator as it only reflects overall accuracy, and does not give a glimpse into how high-risk and low-risk classes individually perform.  The precision number for all models was quite low, however in this analysis, using the sensitivity (recall) metric would be more important, as it measures how many credit requests that are actually high-risk are correctly identified.
