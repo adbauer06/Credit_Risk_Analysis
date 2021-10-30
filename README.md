@@ -101,7 +101,7 @@ The results of using this algorithm are as follows (for identifying high risk):
 
 Classification summary report - EasyEnsembleClassifier:
 
-![ClassificationReportEec](Resources/ClassificationReportEec.png)
+![ClassificationReportEec](https://github.com/adbauer06/Credit_Risk_Analysis/blob/main/Resources/ClassificationReportEec.PNG)
 
 
 ## Summary
