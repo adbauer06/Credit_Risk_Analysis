@@ -39,7 +39,7 @@ The results of using this algorithm are as follows (for identifying high risk):
 
 Classification summary report - RandomOverSampler:
 
-![classification_report_ros](Resources/classification_report_ros.png)
+![classification_report_ros](https://github.com/adbauer06/Credit_Risk_Analysis/blob/main/Resources/classification_report_ros.PNG)
 
 ### SMOTE Algorithm  
 This algorithm also works by using oversampling.  In this case, new data is generated and added to the minority class until the two classes are balanced.
