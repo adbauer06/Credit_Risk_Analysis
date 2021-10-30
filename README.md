@@ -63,7 +63,7 @@ The results of using this algorithm are as follows (for identifying high risk):
 
 Classification summary report - ClusterCentroids:
 
-![classification_report_cc](Resources/classification_report_cc.png)
+![classification_report_cc](https://github.com/adbauer06/Credit_Risk_Analysis/blob/main/Resources/classification_report_cc.PNG)
 
 ### SMOTEENN
 This algorithm uses a combination of both oversampling and undersampling to equalize the two classes.
