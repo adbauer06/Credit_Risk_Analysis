@@ -51,7 +51,7 @@ The results of using this algorithm are as follows (for identifying high risk):
 
 Classification summary report - SMOTE:
 
-![classification_report_smote](Resources/classification_report_smote.png)
+![classification_report_smote](https://github.com/adbauer06/Credit_Risk_Analysis/blob/main/Resources/classification_report_smote.PNG)
 
 ### ClusterCentroids algorithm
 This algorithm uses undersampling.  The majority class is decreased in size to match the minority class by generating datapoints that represent clusters of data.
