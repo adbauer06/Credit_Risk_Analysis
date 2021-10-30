@@ -88,7 +88,7 @@ The results of using this algorithm are as follows (for identifying high risk):
 
 Classification summary report - BalancedRandomForestClassifier:
 
-![classification_report_brfc](Resources/classification_report_brfc.png)
+![classification_report_brfc](https://github.com/adbauer06/Credit_Risk_Analysis/blob/main/Resources/classification_report_brfc.PNG)
 
 ### EasyEnsembleClassifier
 
